@@ -1,6 +1,49 @@
 {
   "server.dll": {
     "classes": {
+      "0": {
+        "fields": {
+          "": 1162890561,
+          "\u0003\u0003": 1074457136,
+          "\u0018����": 1380009038,
+          "DDDDUUUUDDDDUUUU����": 1,
+          "X\u0015���": -155576480,
+          "�.\u0019\t�": 1764737416,
+          "�~���": 1091606544
+        },
+        "metadata": [],
+        "parent": null
+      },
+      "2": {
+        "fields": {
+          "": 1380009038,
+          "\u0003\u0003": 1074457136,
+          "8�!��": 1100087312,
+          "@\u001c\u0011\u0007�": 1100087312,
+          "DDDDUUUUDDDDUUUU����": 1073850000,
+          "P:���": 1120403456,
+          "�.\u0019\t�": 1100087297,
+          "�~���": 1091606544,
+          "�����": 1100087312
+        },
+        "metadata": [],
+        "parent": null
+      },
+      "6": {
+        "fields": {
+          "": 1162890561,
+          "\u0003\u0003": 1074457136,
+          "8�!��": 1100087312,
+          "@\u001c\u0011\u0007�": 1100087312,
+          "DDDDUUUUDDDDUUUU����": 1073850000,
+          "P:���": 1120403456,
+          "�.\u0019\t�": 1076084352,
+          "�~���": 1091606544,
+          "�����": 1100087312
+        },
+        "metadata": [],
+        "parent": null
+      },
       "ActiveModelConfig_t": {
         "fields": {
           "m_AssociatedEntities": 64,
@@ -19403,6 +19446,61 @@
         ],
         "parent": null
       },
+      "PARTICLE_ORIENTATION_SCREEN_ALIGNED": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "PF_BIAS_TYPE_STANDARD": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "PF_INPUT_MODE_CLAMPED": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "PF_MAP_TYPE_DIRECT": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "PF_NOISE_MODIFIER_NONE": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "PF_NOISE_TURB_NONE": {
+        "fields": {
+          "": 917535,
+          "@���^\u0002": 1092020105,
+          "�.\u0019\t�": 1,
+          "�[�^\u0002": 1092020104
+        },
+        "metadata": [],
+        "parent": null
+      },
+      "PF_NOISE_TYPE_PERLIN": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "PF_RANDOM_MODE_CONSTANT": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "PF_ROUND_TYPE_NEAREST": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "PF_TYPE_LITERAL": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
       "ParticleIndex_t": {
         "fields": {
           "m_Value": 0
@@ -19958,6 +20056,79 @@
       },
       "WrappedPhysicsJoint_t": {
         "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "_": {
+        "fields": {
+          "": -125790480,
+          "\u0001": 1073767445,
+          "\u0002": -126010000,
+          "\u0003": 1414285638,
+          "\f\u0001": 1952542070,
+          "\u0014": -125768528,
+          " XW�^\u0002": 1936880995,
+          "!": -1849006800,
+          "$luminance": 1091037781,
+          ",\u0001": -126024336,
+          "<": -125993424,
+          "F_TYPE_LITERAL": 1735549293,
+          "P�<\u000b�": -125782864,
+          "T\u0005L��Ln�v\\x�1���A\u0016�\u0001f\u001f� �a������6k�\u0015R\u0017�4zչ]\u001db�ɻ��˔#�*\u001e�m����\u001c�C$E)e�{������\u0005��\u0017�Juޜ\u000e5��K�B\u0005�`�\u0003%�M����vE�b[��\u001f\u001e�$~�r\u0004sӻ�\u000b": 1685221218,
+          "T\u0005L��Ln�v\\x�1���A\u0016�\u0001f\u001f� �a������6k�4zչ\u0015R\u0017�]\u001db�ɻ��˔#�*\u001e�m����\u001c�C$E)e�{������\u0005��\u0017�Juޜ\u000e5��K�B\u0005�`�\u0003%�M����vE�b[��\u001f\u001e�$~�r\u0004sӻ�\u000b": -125772112,
+          "Xw�A�": 0,
+          "___error_resource__.vmix": 0,
+          "___error_resource__.vpost": 0,
+          "___error_resource__.vsnd": 1091036300,
+          "___error_resource__.vvis": 1415530064,
+          "___error_resource__.vwrld": 0,
+          "acers_shot.vpcf": -126000144,
+          "colorcorrection_0000025e418f08d0.vtex": 0,
+          "materials/dev/aoproxy_splat.vmat": 1074205936,
+          "materials/dev/compact_indirect_draws.vmat": 1091038691,
+          "materials/dev/compute_depthbin_cullbits.vmat": 0,
+          "materials/dev/compute_smooth_normals_cs.vmat": 1091038341,
+          "materials/dev/cs_parallel_sort_onesweep.vmat": 1091038425,
+          "materials/dev/generate_aggregate_cull_requests.vmat": 1415530064,
+          "materials/dev/hair_composite.vmat": 0,
+          "materials/dev/hair_render_ao_volume.vmat": 0,
+          "materials/dev/hair_render_volume.vmat": 1091037399,
+          "materials/dev/lpv_debug_grid.vmat": 1091038188,
+          "materials/dev/panel_normal_tga_842c0122.vtex": 1869955651,
+          "materials/dev/panel_normal_tga_8ccb9ed0.vtex": 1091039236,
+          "materials/dev/roomwalls_white.vmat": 1091038993,
+          "materials/dev/ssao_blur.vmat": 1091036830,
+          "materials/dev/ssao_convert_depth.vmat": 1078006784,
+          "materials/dev/visualize_aggregate.vmat": 1091038785,
+          "materials/dev/visualize_instanced.vmat": 1091038547,
+          "materials/dev/wind_noise_cs.vmat": 0,
+          "materials/effects/lightcookies/flashlight.vtex": 0,
+          "materials/particle/base_sprite.vtex": 1091039063,
+          "o\u0012\u0003;o\u0012\u0003;1\b�;���;B`�;\n�#<�8\">�8\">���9���9`��=`��=o�6<��C<*:�<*:�<": 1953719636,
+          "textures/dev/blue_noise_256.vtex": 1091038266,
+          "textures/dev/ggx_integrate_brdf_lut_schlick.vtex": 0,
+          "ttributeManager.m_Item": -126001040,
+          "weapons/models/xm1014/weapon_shot_xm1014.vmdl": 1853190003,
+          "wellknown_black_1x1.vtex": 0,
+          "wellknown_black_cube_1x1.vtex": 1091036580,
+          "wellknown_checker_2x2.vtex": -1722098659,
+          "wellknown_depth_d32_black.vtex": 1065353216,
+          "wellknown_one_array_16bit_1x1x1.vtex": 1777274040,
+          "wellknown_opaque_black_2x2x2.vtex": 1415530064,
+          "wellknown_white_1x1.vtex": 0,
+          "wellknown_white_1x1x1.vtex": 1415530064,
+          "�": 1850040131,
+          "�\u0005��^\u0002": 1414285638,
+          "�0\u0006\u0019\f\b": -1849129552,
+          "�oT�^\u0002": 761623912,
+          "�v�A�": 1091039348,
+          "�}��^\u0002": 0,
+          "��\u0007@^\u0002": 1091037654,
+          "��!��ダT\u0005L��Ln�v\\x�1���A\u0016�\u0001f\u001f� �a������6k�4zչ\u0015R\u0017�]\u001db�\u000bo��˔#�*\u001e�m����\u001c�C$E)e�{������\u0005��\u0017�Juޜ\u000e5��K�B\u0005�`�\u0003%�M����vE�b[��\u001f\u001e�$~": 1970169197,
+          "��N��": 1091036267,
+          "���>���>���>���>���>���>���>���>���>���>���>���>���>���>���>���>���>���>���>���>���>���>���>���>���>���>���>���>���>���>���>���>": -125793616,
+          "���k;": 1099890808
+        },
         "metadata": [],
         "parent": null
       },
